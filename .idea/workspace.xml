@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45031c2-10f0-4f2f-b96f-19f60484713b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/untitled.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../puppy-filters/js/umd/util.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/CA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/flag.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img1-lg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img1-sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img2-lg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img2-sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img3-lg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img3-sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img4-lg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/img4-sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/gallery/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/icon-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/photos/user9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/select.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/uploadfile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../codinghouse/hackathon/images/voter.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/css/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/css/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/css/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/buttons/icons/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/buttons/icons/key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/buttons/icons/tick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/doc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/external.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/feed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/im.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/visited.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/plugins/link-icons/icons/xls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/blueprint-css/src/grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/css1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/css2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/css3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/html.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/html2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/htmlstructure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/doc/assets/images/js.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/Ghub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/blue-bokeh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/dia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/dia2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/gh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/heart.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/hexa80.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/lisheep.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/orange-bokeh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/q.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/tracy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/word.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../tracyking/me/img/www.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../me/fonts/glyphicons-social-regular.ttf" afterPath="$PROJECT_DIR$/../me/fonts/glyphicons-social-regular.ttf" />
+    </list>
+    <ignored path="untitled.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../puppy-filters/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.4835165">
+              <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../puppy-filters/css/app.css" />
+        <option value="$PROJECT_DIR$/../puppy-filters/index.html" />
+        <option value="$PROJECT_DIR$/../puppy-filters/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-42" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppy-filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppy-filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puppy-filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../translate" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45031c2-10f0-4f2f-b96f-19f60484713b" name="Default" comment="" />
+      <created>1457902110126</created>
+      <option name="number" value="Default" />
+      <updated>1457902110126</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-42" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../puppy-filters/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../puppy-filters/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../puppy-filters/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4835165">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

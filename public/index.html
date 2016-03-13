@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Filters with Finley</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="icon" href="img/dog.ico" type="image/x-icon" />
+</head>
+<body>
+
+<div class="container" ng-app="filtersWithFinley" ng-controller="finleyController">
+    <div class="row">
+        <div class="col-xs-12 text-center puppy-buttons">
+            <button class="btn btn-info" ng-click="myFilter = {type: 'puppy'}">
+                Puppy
+            </button>
+            <button class="btn btn-success" ng-click="myFilter = {type: 'teen'}">
+                Teen
+            </button>
+            <button class="btn btn-primary" ng-click="myFilter = {type: 'dog'}">
+                Dog
+            </button>
+            <button class="btn btn-danger" ng-click="myFilter = {type: ''}"><span class="glyphicon glyphicon-remove"></span>
+                Remove Filter
+            </button>
+        </div>
+    </div>
+
+    <ul class="row">
+        <li class="col-xs-12 col-md-4 thumbnail" ng-repeat="finley in finleys |  filter:myFilter"><img ng-src="{{finley.imageUrl}}" />
+        </li>
+    </ul>
+
+</div>
+
+<!-- In production use:
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "firebase": "puppy-filters",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
